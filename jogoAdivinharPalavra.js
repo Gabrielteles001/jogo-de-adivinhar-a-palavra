@@ -34,7 +34,6 @@ while (tentativas > 0) {
         
     }
     console.clear();
-    //letraTentadas.push(letra);
     let letraCorreta = false;
 
     for (let i = 0; i <palavraSecreta.length; i++){
